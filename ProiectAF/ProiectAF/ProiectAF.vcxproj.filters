@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ProiectAF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bfs.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bfs.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="dfs.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="dfs.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="havel.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="havel.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="critcon.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="critcon.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ctc.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ctc.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="sortaret.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="sortaret.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="biconex.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="biconex.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="apm.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="apm.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="disjoint.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="disjoint.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bellmanford.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="bellmanford.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="dijkstra.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="dijkstra.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="royfloyd.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="royfloyd.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="darb.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="maxflow.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="maxflow.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ciclueuler.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cuplaj.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ciclueuler.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hamilton.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="hamilton.out">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cuplaj.out">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="darb.in">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

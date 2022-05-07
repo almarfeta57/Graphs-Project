@@ -1,0 +1,26 @@
+﻿  ProiectAF.cpp
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(46,31): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(151,31): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(163,31): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(277,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(309,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(372,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(445,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(613,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(668,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(698,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(716,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(769,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(803,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(843,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(864,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(942,24): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(994,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(1022,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(1055,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(1080,27): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(1141,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(1159,23): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(1171,31): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\ProiectAF\ProiectAF\ProiectAF.cpp(1185,27): warning C4018: '<': signed/unsigned mismatch
+  ProiectAF.vcxproj -> D:\Projects\ProiectAF\Debug\ProiectAF.exe
